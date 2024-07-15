@@ -28,8 +28,8 @@
 4. **[BitGet](https://www.bitget.com/en/referral/register?from=referral&clacCode=VRNEYUTR)**
    总部在新加坡，前火币高管出来创立的新的交易所，这两年势头迅猛。新币上线很及时，活动也很多，建议注册一个账号，很早期。
 
-5. **[抹茶](https://www.mexc.com/)**
-    山寨币上新最快，目前不支持
+5. **[抹茶](https://www.mexc.com/register?inviteCode=1Xxr/)**
+    山寨币上新最快，用户体验很好。
 
 6. **[Bybit](https://www.bybitglobal.com/invite?ref=VMKORMM/)**
     香港和台湾地区用得多，最近难得对内地开放了注册资格，打新收益很高，非常正规的一家交易所。
