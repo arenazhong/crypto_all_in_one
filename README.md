@@ -11,7 +11,7 @@
 
 ## 中心化大所
   - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些随机的币，可以撸一波羊毛。
-1. **[欧易（国内可能需要翻墙）](https://www.okx.com/join/79853740)（OKX，前Okex）**
+1. **[欧易（国内可能需要翻墙）](https://www.okx.com/join/18639032)（OKX，前Okex）**
     国内交易量第一。最适合大陆新用户注册的头部交易所。安卓手机可以直接通过链接下载官方App。苹果手机下载需要通过海外appleid（可以自己注册，淘宝买，知乎上搜一个教程也行）登录app store后在苹果商店搜索okx下载 欧易苹果app已上架App store。第二步：注册后记得领取新手数字货币盲盒奖励。第三步：根据自己的需求在C2C交易区完成入金，支付宝、微信、银行卡都可以交易。
     <!-- ![okx_box](https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png) -->
     <p align="center">
