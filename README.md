@@ -17,7 +17,11 @@
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png" alt="盲盒" width="310" height="300">
     </p>
-
+  
+    <video width="600" controls>
+      <source src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/b/medias/videos/buy-btc.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 
 2. **[币安（国内可能需要翻墙）](https://accounts.binance.com/register?ref=36457687)**（Binance）
     全球交易量第一。注册时，你的梯子vpn节点是哪里就会被认为是哪里的账号，人工修改为注册地台湾。注册完成以后认证地区选择中国即可。选择邮箱注册，注册完需要进行kyc身份认证，按照提示操作即可，提交kyc之后等客服审核，24小时内就完成审核。
